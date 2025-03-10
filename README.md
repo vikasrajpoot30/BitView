@@ -2,7 +2,7 @@
 
 🚀 **BitView** is a modern cryptocurrency dashboard built with **React, Vite, Chakra UI, and React Router**. It provides users with a seamless experience to track transactions and manage crypto-related activities through an intuitive interface.  
 
-![BitView Dashboard Preview](/screenshot.png) 
+![BitView Dashboard Preview](/Screenshot 2025-03-10 153459.png) 
 
 ---
 
